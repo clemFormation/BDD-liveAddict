@@ -18,7 +18,9 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de données : `liveAddict`
+CREATE database `liveAddict`;
+use `liveAddict`;
+
 --
 
 -- --------------------------------------------------------
